@@ -20,10 +20,6 @@
 
 Always remember that tensorflow does not support python 3.8. It supports upto version 3.7 only.
 
-To use our project - go to this link https://share.streamlit.io/golden-panther/glaucoma-detector/glaucoma_app.py
-
-(or)
-
 To run this app
 
 ```
